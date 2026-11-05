@@ -8,7 +8,7 @@
 
 *Building useful digital experiences across mobile, desktop, and AI-powered applications.*
 
-<img align="right" alt="Coding" width="340" src="coding.gif">
+<img align="right" alt="Coding" width="340" src="ghibli-study-1793879103.gif">
 
 ## About Me
 
