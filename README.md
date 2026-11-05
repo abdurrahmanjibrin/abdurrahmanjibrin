@@ -4,11 +4,11 @@
 
 <div align="center">
 
-# Hi, I'm Abdur Rahman Jibrin 👋
+# Hi, I'm Abdur Rahman Jibrin
 
 ### Software Developer · AI Enthusiast · Information Systems Student
 
-*I build useful digital experiences across **mobile, desktop, and AI-powered applications**.*
+*Building useful digital experiences across mobile, desktop, and AI-powered applications.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdurrahmanjibrin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdurrahmanjibrin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-jibrin/)
@@ -20,34 +20,32 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
-I'm an Information Systems student at **Universitas Negeri Surabaya (UNESA)** with a strong interest in software development and applied technology.
+I am an Information Systems undergraduate at **Universitas Negeri Surabaya (UNESA)** with a focus on software development and applied technology.
 
-I enjoy turning ideas into practical products — from mobile applications and desktop utilities to AI-assisted solutions. I'm especially interested in the intersection of **software engineering, artificial intelligence, and human-centered design**.
+I turn ideas into functional, reliable products — ranging from mobile apps and desktop utilities to computer vision and AI-assisted workflows. My primary interest lies in the intersection of **software engineering, applied intelligence, and human-centered design**.
 
-- 🎓 Studying Information Systems at **Universitas Negeri Surabaya**
-- 📱 Exploring **Android** (Kotlin) and **iOS** (Swift) development
-- 🧠 Passionate about **AI integration** and computer vision
-- 🖥️ Building desktop applications and productivity tools
-- 🛠️ Learning by building, experimenting, and iterating
+- Studying Information Systems at Universitas Negeri Surabaya
+- Developing mobile applications for Android (Kotlin) and iOS (Swift)
+- Implementing computer vision pipelines and AI model integrations
+- Building desktop applications and productivity tooling
+- Emphasizing practical architecture, maintainability, and clean code
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-A few projects that represent the areas I'm exploring:
-
-| Project | What it is | Tech Stack |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 💻 [**Piko Desktop Companion**](https://github.com/abdurrahmanjibrin/Piko-Desktop-Companion) | A desktop companion focused on contextual interactions, productivity utilities, and media integration. | C#, .NET, WPF, AI Bridge |
-| 📱 [**Teleprompter Pro iOS**](https://github.com/abdurrahmanjibrin/teleprompter-ios) | An iOS application project focused on a practical teleprompter experience with Floating PiP over Camera. | Swift, SwiftUI, AVKit |
-| 🧭 [**OrionNavigator**](https://github.com/abdurrahmanjibrin/OrionNavigator) | An assistive-technology navigation project exploring spatial awareness and camera vision. | Kotlin, Android, Vision AI |
-| 🛡️ [**edu-guard**](https://github.com/abdurrahmanjibrin/edu-guard) | An educational web experience designed for cognitive disability learning on personal safety. | JavaScript, HTML5, CSS3 |
+| [**Piko Desktop Companion**](https://github.com/abdurrahmanjibrin/Piko-Desktop-Companion) | A desktop companion focused on contextual interactions, productivity utilities, and media integration. | C#, .NET, WPF, AI Bridge |
+| [**Teleprompter Pro iOS**](https://github.com/abdurrahmanjibrin/teleprompter-ios) | An iOS application project focused on a practical teleprompter experience with Floating PiP over Camera. | Swift, SwiftUI, AVKit |
+| [**OrionNavigator**](https://github.com/abdurrahmanjibrin/OrionNavigator) | An assistive-technology navigation project exploring spatial awareness and camera vision. | Kotlin, Android, Vision AI |
+| [**edu-guard**](https://github.com/abdurrahmanjibrin/edu-guard) | An educational web experience designed for cognitive disability learning on personal safety. | JavaScript, HTML5, CSS3 |
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Mobile & Desktop
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -70,17 +68,9 @@ A few projects that represent the areas I'm exploring:
 
 ---
 
-## 🌐 Let's Connect
+## Connect
 
-I'm always open to learning, collaboration, and conversations about software development and technology.
-
-- 💼 **LinkedIn:** [linkedin.com/in/abdur-rahman-jibrin](https://www.linkedin.com/in/abdur-rahman-jibrin/)
-- 📱 **WhatsApp:** [+62 851-2634-9610](https://wa.me/6285126349610)
-- ✉️ **Email:** [abdurrahman.jibrinn@gmail.com](mailto:abdurrahman.jibrinn@gmail.com)
-- 📸 **Instagram:** [@abdrhmn.jibrin_](https://www.instagram.com/abdrhmn.jibrin_/)
-
----
-
-<p align="center">
-  <em>Building, learning, and improving — one project at a time.</em>
-</p>
+- **LinkedIn**: [linkedin.com/in/abdur-rahman-jibrin](https://www.linkedin.com/in/abdur-rahman-jibrin/)
+- **WhatsApp**: [+62 851-2634-9610](https://wa.me/6285126349610)
+- **Email**: [abdurrahman.jibrinn@gmail.com](mailto:abdurrahman.jibrinn@gmail.com)
+- **Instagram**: [@abdrhmn.jibrin_](https://www.instagram.com/abdrhmn.jibrin_/)
