@@ -2,23 +2,13 @@
   <img src="banner.jpg" alt="Tukang Timpa Banner" width="100%" />
 </p>
 
-<div align="center">
-
 # Hi, I'm Abdur Rahman Jibrin
 
 ### Software Developer · AI Enthusiast · Information Systems Student
 
 *Building useful digital experiences across mobile, desktop, and AI-powered applications.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-abdurrahmanjibrin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdurrahmanjibrin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-jibrin/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdrhmn.jibrin_/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285126349610)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahman.jibrinn@gmail.com)
-
-</div>
-
----
+<img align="right" alt="Coding" width="340" src="coding.jpg">
 
 ## About Me
 
@@ -32,6 +22,33 @@ I turn ideas into functional, reliable products — ranging from mobile apps and
 - Building desktop applications and productivity tooling
 - Emphasizing practical architecture, maintainability, and clean code
 
+<br>
+
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdur-rahman-jibrin/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="40" />
+  </a>
+  <a href="https://www.instagram.com/abdrhmn.jibrin_/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="40" />
+  </a>
+  <a href="https://wa.me/6285126349610" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="32" width="40" />
+  </a>
+  <a href="mailto:abdurrahman.jibrinn@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="32" width="40" />
+  </a>
+</p>
+
+---
+
+## Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,apple,cs,dotnet,js,html,css,py,git,github,figma&theme=dark" alt="Languages and Tools" />
+  </a>
+</p>
+
 ---
 
 ## Featured Projects
@@ -42,35 +59,3 @@ I turn ideas into functional, reliable products — ranging from mobile apps and
 | [**Teleprompter Pro iOS**](https://github.com/abdurrahmanjibrin/teleprompter-ios) | An iOS application project focused on a practical teleprompter experience with Floating PiP over Camera. | Swift, SwiftUI, AVKit |
 | [**OrionNavigator**](https://github.com/abdurrahmanjibrin/OrionNavigator) | An assistive-technology navigation project exploring spatial awareness and camera vision. | Kotlin, Android, Vision AI |
 | [**edu-guard**](https://github.com/abdurrahmanjibrin/edu-guard) | An educational web experience designed for cognitive disability learning on personal safety. | JavaScript, HTML5, CSS3 |
-
----
-
-## Tech Stack & Tools
-
-### Mobile & Desktop
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Web & Programming
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## Connect
-
-- **LinkedIn**: [linkedin.com/in/abdur-rahman-jibrin](https://www.linkedin.com/in/abdur-rahman-jibrin/)
-- **WhatsApp**: [+62 851-2634-9610](https://wa.me/6285126349610)
-- **Email**: [abdurrahman.jibrinn@gmail.com](mailto:abdurrahman.jibrinn@gmail.com)
-- **Instagram**: [@abdrhmn.jibrin_](https://www.instagram.com/abdrhmn.jibrin_/)
