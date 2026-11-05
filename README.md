@@ -14,7 +14,7 @@
 
 I am an Information Systems undergraduate at **Universitas Negeri Surabaya (UNESA)** with a focus on software development and applied technology.
 
-I turn ideas into functional, reliable products — ranging from mobile apps and desktop utilities to computer vision and AI-assisted workflows. My primary interest lies in the intersection of **software engineering, applied intelligence, and human-centered design**.
+I turn ideas into functional, reliable products ranging from mobile apps and desktop utilities to computer vision and AI-assisted workflows. My primary interest lies in the intersection of **software engineering, applied intelligence, and human-centered design**.
 
 - Studying Information Systems at Universitas Negeri Surabaya
 - Developing mobile applications for Android (Kotlin) and iOS (Swift)
