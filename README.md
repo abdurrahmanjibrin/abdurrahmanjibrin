@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Abdur%20Rahman%20Jibrin&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Information%20Systems%20Student&descAlignY=62&descAlign=50" width="100%" />
+  <img src="banner.jpg" alt="Tukang Timpa Banner" width="100%" />
 </p>
 
 <div align="center">
